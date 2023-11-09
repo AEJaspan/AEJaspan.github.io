@@ -14,6 +14,7 @@ The Bayesian workflow was meticulously structured, starting with the calculation
 
 The `DatalandElectionModel.py` script is the crux of the forecasting model, combining lagged economic indicators, polling data, and historical partisan leans to predict vote shares. The model was carefully tuned to the peculiarities of Dataland’s political landscape, including inflation rates and GDP changes, to estimate the national vote share on election day.
 
+
 ## Data Processing and Model Refinement
 
 Data processing involved calculating the exponentially weighted sum of past partisan leans to create a current lean matrix. Polling trends were calculated using a weighted 7-day moving average, with pollster-specific weightings to mitigate bias. Time series forecasting was enhanced with a custom-built analysis package, and the model's predictive performance was gauged against economic indicators using Bayesian methods.
