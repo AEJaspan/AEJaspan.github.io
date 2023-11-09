@@ -5,33 +5,21 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "Check out some of my public Data Science projects."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
+    - title: "Bayesian Analysis"
       type: id_picture
       color: "#62b462"
-    - title: "Quote"
+    - title: "Poll Scraper"
       type: id_quote
       color: "#2FD0ED"
 
   list:
-    # example
-    - type: id_example
-      project_name: "Publications"
-      project_excerpt: "Examples"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
-      post: |
-        Pub A
 
     # picture
     - type: id_picture
@@ -45,8 +33,8 @@ page_data:
 
     # quote
     - type: id_quote
-      project_name: "Web Scraper"
-      project_excerpt: "Webscrape"
+      project_name: "Poll Scraper"
+      project_excerpt: "PollScraper"
       #img: ":project1_thumb.jpg"
       img_title: "img title3"
       date: "2021-05-27"
