@@ -4,7 +4,7 @@ remote_theme: MrGreen-JekyllTheme
 ###########################################################
 # if you want to force HTTPS, specify the domain without the http at the start
 # set domain: "your_github_user_name.github.io"
-domain: ""
+domain: "AEJaspan.github.io"
 
 # your web site url
 # for GitHub Pages, url: "https://your_github_user_name.github.io"
