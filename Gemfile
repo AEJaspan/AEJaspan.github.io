@@ -29,3 +29,4 @@ gem "webrick", "~> 1.7"
 
 
 gem "faraday-retry"
+gem "mini-racer"
