@@ -134,7 +134,7 @@ post-list:
 
 # for home layout
 home:
-  title: Welcome
+  title: 
   button_name: Home
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
@@ -153,8 +153,8 @@ about:
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
+  title: Publications
+  button_name: Publications
   link_text: Web site
   info_text: Info
 
@@ -171,9 +171,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  greetings: " "
+  welcome: " "
+  sample: " "
 
 # for contact form
 contact_form:
