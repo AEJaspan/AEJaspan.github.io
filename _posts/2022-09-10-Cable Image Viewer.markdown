@@ -17,11 +17,11 @@ My focus in this project was the software development. In doing so, I successful
 
 A core component of this project was the utilization of modern computer vision techniques to detect and localize defects on the cable surface. This utility of the product makes it possible for on site engineers to quickly assess large quantities of image data, with their attention being effectively focused on sites with the most probable signs of damage.
 
-![Object detection and localisation](assets/img/posts/automateddetection.png)
+![Object detection and localisation](/assets/img/posts/automateddetection.jpg)
 
 An early prototype of the cable viewer front end can be seen below. This displayed test images from a cable, facilitating user annotations. It's worth noting that this prototype used placeholder data from the Anzac Bridge for demonstration.
 
-![Annotations provided in the frontend](assets/img/posts/annotations.png)
+![Annotations provided in the frontend](/assets/img/posts/annotations.jpg)
 
 The project's success hinged on adopting an agile approach, which enabled continuous development and integration of new features as additional data from the robot became available. This approach ensured the delivery of working software throughout the project’s lifecycle.
 
