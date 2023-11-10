@@ -1,0 +1,11 @@
+# [Applied Bayesian Structural Health Monitoring: inclinometer data anomaly detection and forecasting](https://arxiv.org/abs/2307.00305)
+
+My most recent work focuses on applying Bayesian Inference to time series forecasting. This work has provided significant advancements in the field of geotechnical site monitoring, focusing on the novel application of Bayesian techniques to analyze inclinometer data​​.
+
+Inclinometers, essential in monitoring earthwork slopes and infrastructure stability, are challenged by complex data interpretation due to intricate physical phenomena and systematic errors​​. The research addresses two critical objectives: detecting anomalies and forecasting potential future issues in infrastructure stability. By applying Uncertainty Quantification (UQ) techniques with a Bayesian approach, the study enhances the accuracy and reliability of predicting system states and identifying data anomalies​​.
+
+The paper emphasizes the growing necessity of efficient structural health monitoring (SHM) due to aging civil infrastructure, compounded by climate change and population growth. Traditional SHM methods, largely focused on data collection, often lead to human error and increased maintenance costs. This research demonstrates how statistical and probabilistic UQ approaches automate the interpretation of inclinometer data, reducing the burden on practitioners and conserving resources​​.
+
+A significant aspect of the study is the use of Kalman Filtering to model inclinometer data as a Hidden Markov Model. This approach, combined with an RTS smoother, efficiently handles real-world data complexities like irregular time intervals and outliers. The paper's validation on extensive real-world data sets highlights its practical applicability and superiority over existing methods in inclinometer data processing and SHM​​.
+
+This paper provides a novel approach to inclinometer data analysis, offering a more efficient, accurate, and automated method for infrastructure monitoring, crucial for timely maintenance and risk management. If you would like to learn more about my work in this field, please feel free to drop me a message via the contact form in my [homepage](https://aejaspan.github.io/).
