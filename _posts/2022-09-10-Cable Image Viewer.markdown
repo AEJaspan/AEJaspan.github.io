@@ -1,5 +1,3 @@
-<!-- https://www.dkgrdatasystems.com/portfolio/robotic-inspection -->
-
 # Robotic Inspection Project
 
 This project represents a significant advancement in bridge inspection, utilizing robotics and computer vision to analyze cable defects on stay-cable bridges. Initially, the challenge was to make the images captured by an inspection robot both useful and usable.
