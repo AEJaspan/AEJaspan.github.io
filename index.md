@@ -47,7 +47,7 @@ img: ":banner.jpg"
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="adam.jaspan@googlemail.com" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="example@mail.com" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Feel free to reach out to me here with any questions regarding my work, collaborations or new opportunities." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
