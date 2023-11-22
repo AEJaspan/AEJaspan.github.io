@@ -69,6 +69,6 @@ Machine learning, and recent developments in generative modelling is another foc
 
 ## 📫 How to reach me 
 
-I'm always eager to collaborate, innovate, and contribute to projects where I can. If you would like to reach out to share a interesting new opportunity, or if you want to find out more about my work, please shoot me a message over on my [Linkedin](https://www.linkedin.com/in/adam-jaspan/) or you can email me by filling in the contact form below.
+I'm always eager to collaborate, innovate, and contribute to projects where I can. If you would like to reach out to share a interesting new opportunity, or if you want to find out more about my work, please shoot me a message over on my [Linkedin](https://www.linkedin.com/in/adam-jaspan/) or you can email me by filling in the contact form in my home page.
 
 <!-- {{ website_info_text_second }} -->
