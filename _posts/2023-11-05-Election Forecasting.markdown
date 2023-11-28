@@ -8,20 +8,34 @@ Dataland, a fictional representation with 12 provinces and a multi-party system,
 
 ## Methodological Workflow
 
-The Bayesian workflow was meticulously structured, starting with the calculation of state-specific partisan leans from historical vote share data. This was followed by integrating raw polling data and forecasting trends using a General Additive Model (GAM) applied to the polling predictions. Lagged economic indicators were processed to factor in the economic conditions influencing voter behavior.
+The Bayesian workflow was meticulously structured, starting with the calculation of state-specific partisan leans from historical vote share data. This was followed by integrating raw polling data and forecasting trends using a General Additive Model (GAM) applied to the polling predictions. The derived trend lines from this analysis can be seen below. Additionally, lagged economic indicators or "fundamentals" were processed to factor in the economic conditions influencing voter behavior.
+
+![Old 2D Plot](/assets/img/posts/Dataland/National_predictions_with_win_probs.png)
+
 
 ## Model Execution
 
 The `DatalandElectionModel.py` script is the crux of the forecasting model, combining lagged economic indicators, polling data, and historical partisan leans to predict vote shares. The model was carefully tuned to the peculiarities of Dataland’s political landscape, including inflation rates and GDP changes, to estimate the national vote share on election day.
 
 
+![Old 2D Plot](/assets/img/posts/Dataland/time_series.png)
+![Old 2D Plot](/assets/img/posts/Dataland/histograms.png)
+
+
 ## Data Processing and Model Refinement
 
-Data processing involved calculating the exponentially weighted sum of past partisan leans to create a current lean matrix. Polling trends were calculated using a weighted 7-day moving average, with pollster-specific weightings to mitigate bias. Time series forecasting was enhanced with a custom-built analysis package, and the model's predictive performance was gauged against economic indicators using Bayesian methods.
+Data processing involved calculating the exponentially weighted sum of past partisan leans to create a current lean matrix. Additionally, the effect of pair-wise correlations across similarly inclined voting blocks was considered, as seen below. Polling trends were calculated using a weighted 7-day moving average, with pollster-specific weightings to mitigate bias. Time series forecasting was developed in a custom-built analysis package, and the model's predictive performance was gauged against economic indicators using Bayesian methods.
+
+![Old 2D Plot](/assets/img/posts/Dataland/correlation_matrix.png)
+
 
 ## Results and Visualization
 
-The Bayesian analysis culminated in state-specific win probabilities and national-level projections, which were then parsed through a simulated Electoral College system to determine the overall election winner. The model's accuracy was demonstrated through various visualizations comparing predicted and actual results, underscoring the tool’s robustness.
+The Bayesian analysis culminated in state-specific win probabilities and national-level projections, which were then parsed through a simulated Electoral College system to determine the overall election winner. The averaged results of this process for the 2023 election are shown below.
+
+![Old 2D Plot](/assets/img/posts/Dataland/simulation_results_map.png)
+
+The model's accuracy was demonstrated through various visualizations comparing predicted and actual results, underscoring the tool’s robustness.
 
 ## Concluding Remarks
 
