@@ -23,7 +23,7 @@ home:
 # about page sub title
 about:
   # sub_title: "$site_sample"
-  sub_title: "Contact Form"
+  sub_title: "About me"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
