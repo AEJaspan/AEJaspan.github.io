@@ -1,5 +1,6 @@
 # [Search for pairs of scalar leptoquarks decaying into quarks and electrons or muons](https://link.springer.com/article/10.1007/JHEP10(2020)112)
 
+
 This paper investigates the potential existence of leptoquarks (LQs). These are theoretical new particles that could bridge the gap between quarks and leptons, and are predicted by certain extensions of the Standard Model of particle physics​​. These particles are significant because they could explain several physical phenomena, such as the origins of neutrino masses and the matter/antimatter asymmetry in the universe. They could also unify electromagnetic and weak forces at high energies​​.
 
 In the Large Hadron Collider (LHC), LQs could potentially be created through processes like gluon-gluon fusion and quark-antiquark annihilation. The paper focuses on examining the pair production of LQs, considering their possible decay into quarks and leptons across different generations, a scenario not extensively explored previously​​.
