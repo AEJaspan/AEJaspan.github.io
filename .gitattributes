@@ -1,5 +1,4 @@
 # Configuring Git to handle line ending  https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
-
 # Set the default behavior, in case people don't have core.autocrlf set.
 * text=auto
 # Declare files that will always have LF line endings on checkout.
@@ -15,4 +14,5 @@
 *.woff binary
 *.woff2 binary
 *.otf binary
+assets/img/posts/LLM-as-a-judge-Demo.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
