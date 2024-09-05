@@ -11,3 +11,8 @@ I have attached a demonstration of the tool that I built, presented by one of my
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7213916884323176448" height="1235" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 In conclusion, employing LLMs as judges using RAG for content validation holds significant potential. It can streamline the review process, enhance content reliability, and combat misinformation. As AI technology advances, the role of LLMs in ensuring content accuracy through RAG will likely become even more critical.
+
+
+
+
+additionally, you can see a blog post on this topic here https://www.linkedin.com/pulse/testing-genai-three-brief-case-studies-demonstrating-so-chapman-u3bne/?trackingId=gReoa0g2TqOfhd65cAW%2BCA%3D%3D
