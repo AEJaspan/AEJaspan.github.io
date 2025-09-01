@@ -42,7 +42,7 @@ Each pairing was evaluated in repeated interactions to ensure statistical robust
 * Cooperation was significantly higher between models from the **same provider** compared to models from **different providers**.
 * **Same-provider average cooperation:** approximately **45%*** **Different-provider average cooperation:** approximately **21%**
 
-![coop](plots/cooperation_by_provider_diff.png)
+![coop](/assets/img/posts/cooperation_by_provider_diff.png)
 
 
 ### Model Size Effects
@@ -50,14 +50,14 @@ Each pairing was evaluated in repeated interactions to ensure statistical robust
 * Pairings between **one large and one small model** showed considerably higher cooperation rates compared to pairings of **two large models**.
 * **Large-small pair average cooperation:** about **65%*** **Large-large pair average cooperation:** about **22%**
 
-![coop](plots/coop_rate_by_model_size_pair.png)
+![coop](/assets/img/posts/coop_rate_by_model_size_pair.png)
 
 ### Effect of Contracts
 
 * Allowing contracts led to a significant improvement in cooperation across all pairings.
 * **With contracts:** average cooperation rose to around **36%*** **Without contracts:** average cooperation was lower, around **22%**
 
-![coop](plots/coop_rate_by_contract.png)
+![coop](/assets/img/posts/coop_rate_by_contract.png)
 
 ---
 
